@@ -108,3 +108,8 @@ Os serviços definidos são:
 ---
 
 ## 📂 Estrutura do Repositório
+├── Apresentacao-do-Projeto/
+├── Documentacao-Tecnica/
+├── Diagramas-UML-da-Arquitetura/
+├── Proposta-do-Projeto/
+└── README.md
